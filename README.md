@@ -13,7 +13,7 @@
 
 ### HTTP API Demo
 
-使用Postmain工具对暴露的example接口进行测试:
+使用Postman工具对暴露的example接口进行测试:
 
 ```http
 POST http://${yourhost}:8080/demo/success
