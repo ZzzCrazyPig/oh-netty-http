@@ -5,7 +5,7 @@
 ## 子模块说明
 
 - oh-netty-http-core：包含HTTP API Server 和 WebSocket API Server的实现
-- oh-netty-http-example：基于`oh-netty-http-core`，使用SpringBoot运行HTTP API Server（包含了WebSocket API Server）
+- oh-netty-http-example：基于`oh-netty-http-core`，使用SpringBoot运行HTTP API Server（包含了WebSocket API Server）的示例程序
 
 ## Demo
 
